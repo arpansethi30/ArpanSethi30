@@ -5,9 +5,9 @@
 ### Hi, I'm Arpan Sethi!
 I'm a dedicated AI/ML specialist passionate about pushing the boundaries of technology. 
 
-- **🔍 Currently Exploring:** Advanced Computer Vision, NLP and Generative AI
+- **🔍 Currently Exploring:** Robotics, Advanced Computer Vision, NLP and Generative AI
 - **💡 Recent Achievement:** Passed the TensorFlow Developer Certification! 🎉
-- **💬 Let's Chat About:** PyTorch, TensorFlow, Deep Learning, Computer Vision
+- **💬 Let's Chat About:** ROS2, PyTorch, TensorFlow, Deep Learning, Computer Vision
 - **🌐 Website:** arpansethi.com(http://arpansethi.com)
 - **📫 Contact Me:** arpansethi30@gmail.com(mailto:arpansethi30@gmail.com)
 
