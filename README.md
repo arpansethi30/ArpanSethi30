@@ -13,23 +13,20 @@ I'm a dedicated AI/ML specialist passionate about pushing the boundaries of tech
 
 ---
 
-### Featured Projects 🌟
+### Featured Projects
 
 - **equifolio.ai(https://github.com/arpansethi30/equifolio.ai)**: Equity portfolio creation for long term investments using AI/ML and data science.
 <!-- - **[Another Project](link-to-project)**: A short description about this project and what makes it interesting. -->
 
 ---
 
-### My GitHub Stats 📊
+### My GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arpansethi30&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
-
-### My Philosophy 🌱
-> "Innovation distinguishes between a leader and a follower." - Steve Jobs
 
 ![TensorFlow Certified](https://img.shields.io/badge/TensorFlow-Certified-brightgreen)
 
