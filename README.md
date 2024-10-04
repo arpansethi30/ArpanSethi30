@@ -25,6 +25,12 @@ I'm a dedicated AI/ML specialist passionate about pushing the boundaries of tech
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arpansethi30&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpanSethi30&theme=radical&hide=jupyter%20notebook,html,css" alt="Top Programming Languages Used" />
+</p>
+
+
+
 
 ---
 
